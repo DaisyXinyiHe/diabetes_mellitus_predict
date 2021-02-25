@@ -15,4 +15,4 @@ Develop a classification model that use ICU data to predict diabetes mellitus.
     * How many patients are diagnosed with diabete mellitus? (more non-diagnosed than diagnosed)
     * Correlation between features?
     * Logistics regression vs. Random Forests 
-    * 
+
